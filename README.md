@@ -1,8 +1,8 @@
 # Final Project Pengantar Kecerdasan Buatan
 
 ## Group L Member
-- [Ahmad Al Jufri](https://github.com/Ahmad238) 1313618019
-- [Mushab Utsmani Ibrahim](https://github.com/mushabui) 1313618023
+- [Ahmad Al Jufri](https://github.com/Ahmad238) (1313618019)
+- [Mushab Utsmani Ibrahim](https://github.com/mushabui) (1313618023)
 
 
 ## Algoritma Multivariate Adaptive Regression Splines (MARS)
