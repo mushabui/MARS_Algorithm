@@ -1,6 +1,6 @@
 # Final Project Pengantar Kecerdasan Buatan
 
-## Group L
+## Group L Member
 - [Ahmad Al Jufri](https://github.com/Ahmad238) 1313618019
 - [Mushab Utsmani Ibrahim](https://github.com/mushabui) 1313618023
 
@@ -11,8 +11,9 @@ model yang mengasumsikan bentuk hubungan fungsional antara variabel respon dan p
 diketahui. MARS adalah kombinasi yang komplek antara metode spline dengan rekursif partisi
 untuk menghasilkan estimasi fungsi regresi yang kontinu, dan digunakan untuk prediksi dan
 klasifikasi. Hasil penelitian menunjukkan bahwa estimasi parameter model MARS untuk variabel
-respon kontinu dilakukan dengan penalized least square (PLS). Pemilihan model MARS terbaik
-dilakukan dengan prosedur forward dan backward stepwise didasarkan pada nilai GCV. Prosedur
+respon kontinu dilakukan dengan penalized least square (PLS). 
+
+Pemilihan model MARS terbaik dilakukan dengan prosedur forward dan backward stepwise didasarkan pada nilai GCV. Prosedur
 forward adalah tahapan untuk mendapatkan fungsi basis maksimum yang mencakup pengaruh efek
 utama, interaksi, dan knot. Sedangkan prosedur backward adalah tahapan untuk mengeliminasi
 fungsi basis yang kontribusinya tidak signifikan. Hasil kajian juga menunjukkan bahwa GCV dengan
